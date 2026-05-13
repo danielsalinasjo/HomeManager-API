@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/HomeManager.API/HomeManager.API.csproj" />
+    <Project Path="src/HomeManager.Application/HomeManager.Application.csproj" />
+    <Project Path="src/HomeManager.Domain/HomeManager.Domain.csproj" />
+    <Project Path="src/HomeManager.Infrastructure/HomeManager.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/HomeManager.Tests/HomeManager.Tests.csproj" />
+  </Folder>
+</Solution>
