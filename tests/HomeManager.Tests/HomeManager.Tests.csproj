@@ -18,4 +18,10 @@
     <Using Include="Xunit" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\HomeManager.Domain\HomeManager.Domain.csproj" />
+    <ProjectReference Include="..\..\src\HomeManager.Application\HomeManager.Application.csproj" />
+    <ProjectReference Include="..\..\src\HomeManager.Infrastructure\HomeManager.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
